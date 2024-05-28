@@ -1,0 +1,2 @@
+# UPOLabs_SLM
+通过python调用瑞立柯提供的dll库来控制瑞立柯的空间光调制器SLM
